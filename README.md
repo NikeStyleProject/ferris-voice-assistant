@@ -3,7 +3,11 @@
 # Rust - Voice Assistant: About🧿
 Introducing "Rust" - Your Advanced Voice Assistant, Powered by Rust.
 
-Meet "Rust," the high-performance voice assistant crafted with the secure and efficient Rust language. Responding swiftly and accurately, Rust prioritizes your privacy, while its robustness guarantees uninterrupted reliability. Equipped with powerful NLP and seamless integration, Rust adapts to your needs effortlessly. Upgrade your voice assistant experience with Rust today!
+Meet "Rust", a crab, that can:
+Talk with you,
+Play games,
+Fix your Rust code,
+Use voice commands to use your PC
 
 # Rust - Voice Assistant: Installation🔧
 Soon, code will be added
