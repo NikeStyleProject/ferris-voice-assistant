@@ -3,8 +3,7 @@
 # Rust - Voice Assistant: About🧿
 Introducing "Rust" - Your Advanced Voice Assistant, Powered by Rust.
 
-Meet "Rust", a crab, that can:
-Talk with you,
+Meet "Rust", a crab, that can: /nTalk with you,
 Play games,
 Fix your Rust code,
 Use voice commands to use your PC
