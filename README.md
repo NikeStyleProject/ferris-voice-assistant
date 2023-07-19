@@ -1,3 +1,5 @@
+![image](https://github.com/NikeStyleProject/rust-voice-assistant/assets/127475930/88d4cfa5-a6b3-4dc5-869f-ed166696ea50)
+
 # Rust - Voice Assistant
 Introducing "Rust" - Your Advanced Voice Assistant, Powered by Rust.
 
