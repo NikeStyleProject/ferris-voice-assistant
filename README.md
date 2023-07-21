@@ -6,4 +6,4 @@ Introducing "Ferris" - Your Advanced Voice Assistant, Powered by Rust.
 Meet "Ferris", a crab, that: <br /> Have voice commands, <br /> Can talk with you, <br /> Play games, <br /> Fix your Rust code
 
 # Ferris - Voice Assistant: Installation🔧
-Soon, code will be added
+Soon, code will be added, but now I work with [nogui version](https://github.com/NikeStyleProject/ferris-voice-assistant/tree/nogui)
